@@ -60,3 +60,10 @@
 
 ---
 ###  Testing Artefacts
+* [Тестовая документация](https://github.com/Kats-aryna/docs)
+* [Тестирование веб приложений](https://github.com/Kats-aryna/web)
+* [Тестирование мобильных приложений](https://github.com/Kats-aryna/mobile)
+* [Работа с базами данных](https://github.com/Kats-aryna/database)
+* [Тестирование API](https://github.com/Kats-aryna/api)
+* [Работа с git и bash](https://github.com/Kats-aryna/git_bash)
+
