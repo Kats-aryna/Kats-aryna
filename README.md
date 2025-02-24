@@ -35,7 +35,7 @@
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" title="xcode" alt="xcode" width="40" height="40"/>&nbsp
-  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
+  <img src="https://camo.githubusercontent.com/336cc8f5f3d0b45b3c149159207c88944e9909640f5dc25c7116355bc75670d5/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f63343065383135393666333061646638363930656532366161313265383838662f74756d626c725f696e6c696e655f6f62387a32316f6754753172326f6e61755f3430302e706e67" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
   <img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" title="fiddler" alt="fiddler" width="40" height="40"/>&nbsp
   <img src="https://pbs.twimg.com/profile_images/1589614420766126080/slAIVDtr_400x400.jpg" title="proxyman" alt="proxyman" width="40" height="40"/>&nbsp
 </div>
